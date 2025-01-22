@@ -1,7 +1,5 @@
 # Python-Portfolio
 
-# My Data Analytics Portfolio  
-
 Welcome to my portfolio! This repository provides an overview of my Python-based data analytics projects. Each project demonstrates my skills in data analysis, cleaning, visualization, and storytelling.
 
 ---
